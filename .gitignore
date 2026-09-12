@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Uploaded photos (temporary, auto-deleted anyway — never commit user files)
+temp-uploads/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+*.log
+
+# Env files (if you ever add secrets/config)
+.env
